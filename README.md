@@ -10,9 +10,9 @@ I pulled the data on all U.S. presidents from this Wikipedia page: https://en.wi
 
 Python (Pandas, NumPy)
 
-## Authors
+## Published
 
-* **Linley Sanders** - *Initial work* - https://github.com/linleysanders
+* **Read Here** - https://medium.com/@linleysanders/measuring-the-record-breaking-presidential-lifespans-of-george-h-w-bush-and-jimmy-carter-f4a9ef9c3e7e
 
 ## Acknowledgments
 
