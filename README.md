@@ -1,2 +1,2 @@
-# presidential-ages
-An analysis of presidential ages after the death of George H.W. Bush
+# presidential-ages-analysis
+An analysis of presidential ages after the death of George H.W. Bush using a table pulled from Wikipedia (https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_age). Analysis published here (https://medium.com/@linleysanders/measuring-the-record-breaking-presidential-lifespans-of-george-h-w-bush-and-jimmy-carter-f4a9ef9c3e7e) and shows that Bush was the oldest American president, and Jimmy Carter will surpass him in a few months.
