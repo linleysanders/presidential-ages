@@ -14,6 +14,8 @@ Python (Pandas, NumPy)
 
 * **Read Here** - https://medium.com/@linleysanders/measuring-the-record-breaking-presidential-lifespans-of-george-h-w-bush-and-jimmy-carter-f4a9ef9c3e7e
 
+* **Read Jupyter Notebook** -https://github.com/linleysanders/presidential-ages/blob/master/Presidential%20Age%20Analysis.ipynb
+
 ## Acknowledgments
 
 * Table / Data: Wikipedia
